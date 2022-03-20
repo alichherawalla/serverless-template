@@ -1,4 +1,4 @@
-import { apiSuccess } from '.';
+import { apiSuccess } from '../index';
 
 describe('calls the apiSuccess function correctly', () => {
 	let callBackSpy;
